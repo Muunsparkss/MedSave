@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# MedSave Medical Image Processing and Sharing Platform
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project aims to provide a platform for doctors where they can encrypt and embed the patient information to the gray scale medical image with pixel manipulation.
+If the doctor needs to send the embedded image to another doctor or department, he can send it within the system. The patients can access their medical images in their profile pages.
 
 ## Available Scripts
 
